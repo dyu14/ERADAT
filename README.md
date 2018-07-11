@@ -25,3 +25,5 @@ example: we observed 255 MB/s on T10K-D, 132 MB/s on LTO-5.
 
 ERADAT is the interface between HPSS and other applications such as the DataCarousel, our home developed production system and 
 dCache. Scalla/Xrootd MSS can also be interfaced with HPSS via DataCarousel.  ERADAT has demonstrated great performance in BNL.
+
+More details about ERADAT, please see: Journal of Physics: Conference Series 331 (2011) 042045
